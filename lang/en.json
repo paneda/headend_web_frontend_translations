@@ -925,6 +925,8 @@
   "SHOW_UNCHANGED": "Show unchanged",
   "AUDIT_LOG_LEGACY": "Audit log (legacy)",
   "AUDIT_LOG": "Audit log",
+  "NO_CHANGES_RECORDED": "Change tracking not supported for this route",
+  "NO_CHANGES_MADE": "No changes made",
   "BACKUP": "Backup",
   "CREATE_DOWNLOAD_BACKUP": "Create and download backup",
   "BACKUP_SUCCESSFULLY_GENERATED": "Backup successfully generated",
